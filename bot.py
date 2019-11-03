@@ -3,7 +3,7 @@ import parse
 import time
 
 #main variables
-TOKEN = "sampletolen"
+TOKEN = "sampletoken"
 bot = telebot.TeleBot(TOKEN)
 inf = []
 #handlers
